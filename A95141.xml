@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a dangerous plot against the vvell-affected party of the town of Lynn, discovered by a most worthy and faithfull servant to the Parliament Thomas Lovekin Major of the said town. With the articles agreed on by the Royall party concerning the said plot; wherein they expresse their desires, to restore his Sacreed [sic] Majesty to his Royall throne and dignity. / Sent in a letter from the said Major Lovekin, to his loving friend Captaine Iames Clerke, at his quarters in the Spread-Eagle at Gracious-streete in London.</title>
+            <author>Lovekin, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95141</idno>
+            <idno type="STC">Wing T2874</idno>
+            <idno type="STC">Thomason E443_27</idno>
+            <idno type="STC">ESTC R204737</idno>
+            <idno type="EEBO-CITATION">99864200</idno>
+            <idno type="PROQUEST">99864200</idno>
+            <idno type="VID">161716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161716)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a dangerous plot against the vvell-affected party of the town of Lynn, discovered by a most worthy and faithfull servant to the Parliament Thomas Lovekin Major of the said town. With the articles agreed on by the Royall party concerning the said plot; wherein they expresse their desires, to restore his Sacreed [sic] Majesty to his Royall throne and dignity. / Sent in a letter from the said Major Lovekin, to his loving friend Captaine Iames Clerke, at his quarters in the Spread-Eagle at Gracious-streete in London.</title>
+                  <author>Lovekin, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lovekin, Thomas.</term>
+               <term>Norfolk (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161716:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <p>A TRUE RELATION Of a dangerous PLOT AGAINST The VVell-affected party of the Town of LYNN, DISCOVERED</p>
+            <p>By a moſt worthy and faithfull ſervant to the Parlia<g ref="char:EOLunhyphen"/>ment <hi>Thomas Lovekin</hi> Major of the ſaid Town.</p>
+            <p>WITH The Articles agreed on by the Royall party concern<g ref="char:EOLhyphen"/>ing the ſaid plot; wherein they expreſſe their deſires, to reſtore his Sacreed Majeſty to his Royall Throne and Dignity.</p>
+            <p>
+               <hi>Sent in a Letter from the ſaid Major</hi> Lovekin, <hi>to his loving friend Captaine</hi> Iames Clarke, <hi>at his quarters in the</hi> Spread-Eagle <hi>at</hi> Gracious-<hi>ſtreete in</hi> London.</p>
+            <p>London, Printed for <hi>J. C.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161716:2"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="1" facs="tcp:161716:2"/>
+            <!-- PDF PAGE 117 -->
+            <head>A Great PLOT Againſt LYNNF, diſcovered by that moſt faithfull ſervant to the Parliament, <hi>Thomas Lovkin</hi> Major to the ſaid Garriſon of LYNN<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>I <hi>Received your letter, and thanke you for your good opinion of me, which J do aſsure you J have not forfeited, as you may perceive by this enſuing information in breife is which thus.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon</hi> Tueſday <hi>the ninth of this Moneth,</hi> Edward Elſden <hi>of</hi> Swaf<g ref="char:EOLhyphen"/>ham
+<pb n="2" facs="tcp:161716:3"/>
+               <!-- PDF PAGE 118 -->
+               <hi>came to the</hi> White-Hart <hi>in</hi> Lynn <hi>and deſired to ſpeak in private with me, which I accepted off where he preſently began to preſent the affe<g ref="char:EOLhyphen"/>ctions of diverſe Gentlemen in the County to me in generall tearmes, with other words tending for the King and his party. J perceiving his inten<g ref="char:EOLhyphen"/>tions, and being willing to diſcover his deſign did ſeemingly comply with him; which he being joyfull off, pro<g ref="char:EOLhyphen"/>miſed me an honourable Commiſsion, either from the Prince or the King, and told me, that J had now an oppor<g ref="char:EOLhyphen"/>tunity, to make my ſelfe great and ho<g ref="char:EOLhyphen"/>nourable J told</hi> Elſden, <hi>that it would not be lafe for me, to act in a deſigne of ſo great a conſequence, without a Commiſsion. He then replyed, that if J would appoint a time to meet with ſome Gentlemen in the County, who
+<pb n="3" facs="tcp:161716:3"/>
+                  <!-- PDF PAGE 118 -->would gladly give me a meeting) J ſhould have full ſatisfaction to all my demands. So J being very willing to hazard my life in the full diſcovery of ſuch an attempt, promiſed them a mee<g ref="char:EOLhyphen"/>ting. After we parted, J tooke my horſe and rid to Capt.</hi> Taylor <hi>who then quartered at Mr.</hi> Thriſebyes, <hi>and acquainted him with all theſe pro<g ref="char:EOLhyphen"/>ceedings; who was glad to here that J was like to make ſo faire a diſcovery. Our place appointed to meet at was the whight-Swan at</hi> Downham <hi>on Fry<g ref="char:EOLhyphen"/>day night following, and</hi> Elſden <hi>pro<g ref="char:EOLhyphen"/>miſed to condust me a privat way thi<g ref="char:EOLhyphen"/>ther, which he did; but it being late be<g ref="char:EOLhyphen"/>fore we arrived neere that town, the gentlemen were gone from the</hi> Swan, <hi>then we inquired for them at the Blacke</hi>-Swan; <hi>but failing of them there alſo,</hi> Elſden <hi>deſired me to ſtay</hi>
+               <pb n="4" facs="tcp:161716:4"/>
+               <!-- PDF PAGE 119 -->alone in the houſe, and he would bring them to me; for he ſaid the cheifeſt of them lived not above two miles off, ſo according to his requeſt I ſtayed, and two hours after Elſden returned to me againe, and told me the Gentlemen were loth to come for feare of being diſcove<g ref="char:EOLhyphen"/>red; but they had ſent a Capt. to waite upon me, who ſtaid at the Townſend to conduct me to the houſe where ſome of them were, ſo I preſently mounted, and rid a long with them, and with in halfe an houre came at a Houſe cituated a<g ref="char:EOLhyphen"/>mongſt woods, &amp; by lanes, where being conducted in Mr. Ralph Skip with was the firſt man ſaluted me, the reſt all ſtran<g ref="char:EOLhyphen"/>gers, we had not long bin Complemen<g ref="char:EOLhyphen"/>ting before we fell into debate concer<g ref="char:EOLhyphen"/>ning the Deſigne in hand, where they promiſed to ſeize upon all the Horſe in the County upon the very day that I ſhould ſtand out for the King, of which day they would give me ſpedie notice &amp; ſend immediately to my aſſiſtance 200 horſe for which purpoſe they diſpached Meſsengers into the County a moungſt
+<pb n="5" facs="tcp:161716:4"/>
+               <!-- PDF PAGE 119 -->their Friends to be in a readineſs I then demanded by what authority, and Com<g ref="char:EOLhyphen"/>miſsion, I ſhould act, Mr. Skipwith ſaid that he had a Commiſsion from the King to raiſe the whole County upon any ad<g ref="char:EOLhyphen"/>vantage, but could not by vertue of that grant a Commiſsion to mee, but further ingaged him ſelfe by Oath, and the reſt to ſend immediatly to Prince Charles for a large one for me, after this an old rogue a capt. of the Kings party would have us all ſeware, and the contents to which he would have had us ſworne were moſt Develiſh, but they preſenly called for a Bible which put me (I con<g ref="char:EOLhyphen"/>feſs) into a ſweat, and then I reſolved to dye &amp; was ready to produce my pock<g ref="char:EOLhyphen"/>et Piſtoll to make what worke I could with them, and then with the ſword; but the Bible being ſomthing long a com<g ref="char:EOLhyphen"/>ing, (for I think there were very few in the houſe) I reſolved otherwiſe with my ſelfe, and ſet a bold face on it, and told them that I was as ready &amp; willing to ſweare as any of them; but I feared it would not bind us ſure enough, and
+<pb facs="tcp:161716:5"/>
+               <!-- PDF PAGE 120 -->told Mr. Skipwith, that I knew he was a judicious man &amp; not ignorant, that an Oath being taken without any that had power to adminiſter it, was not binding, and therefore I deſired, that we might be more ſurely bound by ſome ſubſcripſions one to each other, which at laſt tooke e<g ref="char:EOLhyphen"/>ffect, and ſo by the providence of God, J was quit of there damnable oath.</p>
+            <div type="articles">
+               <p>The articles Subſcribed were to this effect, that wee who were there preſent, ſhould with our lives and for<g ref="char:EOLhyphen"/>tunes advance the cauſe of the King, &amp; indeavour to re<g ref="char:EOLhyphen"/>ſtore his ſacred Majeſty to his throne and former power, againſt all oppoſers with words to the ſame effect more at large. They further aſſured me, that upon the ſecur<g ref="char:EOLhyphen"/>ing of this Garriſon, they ſhould be ſo courted by the Kings party, as I ſhould have forces ſufficient to ſecure the town &amp; Marſhground, and have a conſiderable bo<g ref="char:EOLhyphen"/>dy to take the field, I ſhould alſo have had Sr. <hi>Ralph Hares</hi> eſtate, and Mr. <hi>Gaioſels</hi> and have ben made a Lord at leaſt. Never was bird more joyful being ſet at liberty from a cage impriſonment, then when I was cleere of them, and the next night being <hi>Satterday,</hi> I rewarded them, and I cauſed them to be impriſoned, and brought to <hi>Lynn,</hi> only the Parſon, and a Major, and an old Cap<g ref="char:EOLhyphen"/>tain that had been of the Kings party, were ſent out the day before into the County, to informe their friends of this buſineſſe, and ſo the troope miſled of them. Sr. ac<g ref="char:EOLhyphen"/>quaint all the Parliament men you know with this buſi<g ref="char:EOLhyphen"/>neſſe, my Col. promiſed to wright a bout it this day, but his Occaſions being great could not. All this I doe and will averre upon Oath.</p>
+            </div>
+            <closer>
+               <signed>Your friend to ſerve you, <hi>Tho. Lovekin.</hi>
+               </signed> 
+               <dateline>
+                  <date>
+                     <hi>May</hi> the 8. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Gilbert Mabbot.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
